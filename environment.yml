@@ -1,0 +1,19 @@
+
+
+name: ptcg
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.14
+  - pandas
+  - numpy
+  - kagglehub
+  - pytorch
+  - scikit-learn
+  - matplotlib
+  - gymnasium
+  - seaborn
+  - pip
+  - pip:
+    - kaggle
