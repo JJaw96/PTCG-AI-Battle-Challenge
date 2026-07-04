@@ -218,3 +218,6 @@ __marimo__/
 .streamlit/secrets.toml
 data/EN_Card_Data.csv
 data/Card_ID List_EN.pdf
+src/sim.html
+.gitignore
+.DS_Store
