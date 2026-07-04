@@ -216,3 +216,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+data/EN_Card_Data.csv
+data/Card_ID List_EN.pdf
